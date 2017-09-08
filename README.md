@@ -9,3 +9,6 @@ It is authorized by suwan and jeongwoong
 * 목표 :: 부트로더로 프로그램 하나 메모리에 올리기 (10월까지)
   
   
+### GRUB manual
+[grub manual](https://www.gnu.org/software/grub/manual/grub/grub.html#Overview)
+  
